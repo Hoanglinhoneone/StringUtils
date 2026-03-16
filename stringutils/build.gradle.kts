@@ -61,9 +61,9 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.github.YOUR_GITHUB_USERNAME"
+                groupId = "com.github.Hoanglinhoneone"
                 artifactId = "StringUtilsSDK"
-                version = "1.0.1"
+                version = "1.0.2"
             }
         }
     }
