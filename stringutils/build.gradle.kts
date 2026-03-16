@@ -63,7 +63,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.YOUR_GITHUB_USERNAME"
                 artifactId = "StringUtilsSDK"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
